@@ -1,0 +1,2 @@
+# CausalRiskNet
+]CausalCounterfactualRiskNet (CCRN) predicts lifestyle disease risk using causal inference and personalized “what-if” simulations. It shows how changes in habits—like reducing sodium or increasing steps—directly affect an individual’s future risk and provides clear, actionable risk trajectories.
