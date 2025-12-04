@@ -1,5 +1,3 @@
-# PAGE 6: ITE ESTIMATION
-
 ite_values = causal_model.predict_ite(X_scaled)
 
 data["ITE"] = ite_values
